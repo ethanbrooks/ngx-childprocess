@@ -1,3 +1,5 @@
+https://manu.ninja/simple-electron-gui-wrapper-for-a-command-line-utility/
+
 # ngx-childprocess
 
 Based on the `ngx-electron` package this wraps the child_process node API for Angular applications which are running inside an electron app
